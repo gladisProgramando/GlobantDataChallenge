@@ -1,0 +1,291 @@
+2025-02-07 16:41:11,440 - Validation error in row {'id': '2', 'name': 'Ty Hofer', 'datetime': '2021-05-30T05:43:46Z', 'department_id': '8', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,491 - Validation error in row {'id': '67', 'name': 'Thia Morican', 'datetime': '2021-03-10T19:27:10Z', 'department_id': '', 'job_id': '104'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,506 - Validation error in row {'id': '84', 'name': 'Ludvig Norwood', 'datetime': '2021-02-26T18:47:53Z', 'department_id': '3', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,510 - Validation error in row {'id': '87', 'name': 'Cirstoforo Martinetto', 'datetime': '2021-10-15T09:19:20Z', 'department_id': '', 'job_id': '84'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,523 - Validation error in row {'id': '97', 'name': 'Beltran Natte', 'datetime': '2021-11-01T05:12:01Z', 'department_id': '', 'job_id': '67'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,551 - Validation error in row {'id': '133', 'name': 'Jennine Wapol', 'datetime': '2022-01-24T14:45:57Z', 'department_id': '', 'job_id': '49'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,568 - Validation error in row {'id': '157', 'name': 'Kellia Barribal', 'datetime': '', 'department_id': '4', 'job_id': '61'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,570 - Validation error in row {'id': '162', 'name': '', 'datetime': '2021-04-22T14:31:39Z', 'department_id': '4', 'job_id': '91'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,592 - Validation error in row {'id': '198', 'name': 'Carline Fryman', 'datetime': '2021-05-29T00:23:02Z', 'department_id': '5', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,598 - Validation error in row {'id': '207', 'name': 'Ahmad Fader', 'datetime': '2021-05-03T04:57:25Z', 'department_id': '', 'job_id': '66'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,604 - Validation error in row {'id': '216', 'name': 'Theobald Tzarkov', 'datetime': '2022-01-26T14:56:48Z', 'department_id': '', 'job_id': '87'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,669 - Validation error in row {'id': '340', 'name': '', 'datetime': '2022-01-13T21:09:49Z', 'department_id': '4', 'job_id': '45'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,680 - Validation error in row {'id': '350', 'name': '', 'datetime': '2021-07-13T23:34:40Z', 'department_id': '10', 'job_id': '86'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,705 - Validation error in row {'id': '393', 'name': 'Bogey Hanwell', 'datetime': '2022-01-05T17:29:34Z', 'department_id': '6', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,792 - Validation error in row {'id': '533', 'name': 'Tiertza Vanyashin', 'datetime': '2022-02-04T20:16:06Z', 'department_id': '3', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,828 - Validation error in row {'id': '571', 'name': '', 'datetime': '2021-11-28T02:28:40Z', 'department_id': '7', 'job_id': '69'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,850 - Validation error in row {'id': '623', 'name': '', 'datetime': '2022-01-04T17:42:48Z', 'department_id': '7', 'job_id': '48'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,882 - Validation error in row {'id': '663', 'name': 'Catha Gowrie', 'datetime': '', 'department_id': '4', 'job_id': '85'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,897 - Validation error in row {'id': '685', 'name': 'Bruno Pales', 'datetime': '2022-01-16T19:23:39Z', 'department_id': '', 'job_id': '92'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,944 - Validation error in row {'id': '758', 'name': 'Dyanne Rainy', 'datetime': '2021-06-11T00:56:42Z', 'department_id': '8', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,944 - Validation error in row {'id': '766', 'name': '', 'datetime': '2021-05-31T05:31:53Z', 'department_id': '2', 'job_id': '67'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,960 - Validation error in row {'id': '773', 'name': '', 'datetime': '2021-11-16T02:34:50Z', 'department_id': '5', 'job_id': '35'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,960 - Validation error in row {'id': '789', 'name': 'Jennine Fakeley', 'datetime': '', 'department_id': '2', 'job_id': '94'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,960 - Validation error in row {'id': '792', 'name': 'Hetty Cawthery', 'datetime': '2022-01-21T11:08:04Z', 'department_id': '10', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,991 - Validation error in row {'id': '824', 'name': 'Kaitlynn Rannald', 'datetime': '2021-04-18T15:11:19Z', 'department_id': '', 'job_id': '64'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:11,991 - Validation error in row {'id': '831', 'name': '', 'datetime': '2021-10-22T16:30:46Z', 'department_id': '6', 'job_id': '11'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:11,991 - Validation error in row {'id': '832', 'name': 'Letta Paull', 'datetime': '2021-10-29T02:35:02Z', 'department_id': '', 'job_id': '122'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,129 - Validation error in row {'id': '932', 'name': 'Celeste Stops', 'datetime': '2021-02-07T22:14:01Z', 'department_id': '8', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,129 - Validation error in row {'id': '937', 'name': '', 'datetime': '2021-03-26T20:41:40Z', 'department_id': '3', 'job_id': '60'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,129 - Validation error in row {'id': '942', 'name': 'Joaquin Kamenar', 'datetime': '2021-11-29T11:54:05Z', 'department_id': '', 'job_id': '64'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,145 - Validation error in row {'id': '955', 'name': 'Shena Gore', 'datetime': '2021-08-16T21:25:08Z', 'department_id': '9', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,145 - Validation error in row {'id': '961', 'name': 'Lionello Andriesse', 'datetime': '2022-02-12T05:19:44Z', 'department_id': '8', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,145 - Validation error in row {'id': '970', 'name': '', 'datetime': '2021-08-08T06:06:40Z', 'department_id': '4', 'job_id': '33'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,176 - Validation error in row {'id': '1049', 'name': '', 'datetime': '2021-05-08T23:05:13Z', 'department_id': '6', 'job_id': '91'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,207 - Validation error in row {'id': '1092', 'name': 'Floria Bineham', 'datetime': '', 'department_id': '7', 'job_id': '137'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,207 - Validation error in row {'id': '1095', 'name': 'Lowell Blaber', 'datetime': '', 'department_id': '9', 'job_id': '141'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,207 - Validation error in row {'id': '1098', 'name': 'Colman Bleesing', 'datetime': '2021-10-12T17:55:32Z', 'department_id': '', 'job_id': '77'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,207 - Validation error in row {'id': '1110', 'name': 'Renee Bowe', 'datetime': '2021-08-31T20:26:32Z', 'department_id': '', 'job_id': '112'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,223 - Validation error in row {'id': '1130', 'name': '', 'datetime': '2021-10-19T08:43:38Z', 'department_id': '1', 'job_id': '128'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,238 - Validation error in row {'id': '1170', 'name': '', 'datetime': '2021-03-15T10:47:48Z', 'department_id': '7', 'job_id': '130'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,238 - Validation error in row {'id': '1195', 'name': '', 'datetime': '2021-08-13T09:22:18Z', 'department_id': '10', 'job_id': '54'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,266 - Validation error in row {'id': '1252', 'name': 'Merrily Di Biaggi', 'datetime': '', 'department_id': '7', 'job_id': '19'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,282 - Validation error in row {'id': '1279', 'name': 'Phaidra Dubbin', 'datetime': '2021-10-25T12:19:32Z', 'department_id': '', 'job_id': '38'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,282 - Validation error in row {'id': '1304', 'name': 'Tildie Elby', 'datetime': '2021-09-29T14:02:27Z', 'department_id': '8', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,297 - Validation error in row {'id': '1322', 'name': '', 'datetime': '2021-03-26T23:44:34Z', 'department_id': '5', 'job_id': '47'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,297 - Validation error in row {'id': '1323', 'name': 'Erv Fazan', 'datetime': '', 'department_id': '8', 'job_id': '34'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,344 - Validation error in row {'id': '1413', 'name': 'Berna Grigorkin', 'datetime': '2021-08-02T13:21:07Z', 'department_id': '', 'job_id': '103'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,344 - Validation error in row {'id': '1423', 'name': 'Rozelle Hadleigh', 'datetime': '2021-08-08T01:23:27Z', 'department_id': '', 'job_id': '108'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,344 - Validation error in row {'id': '1432', 'name': 'Jerrine Hammerson', 'datetime': '2022-01-20T22:47:27Z', 'department_id': '', 'job_id': '98'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,376 - Validation error in row {'id': '1463', 'name': 'Shell Houdhury', 'datetime': '2022-01-04T17:20:18Z', 'department_id': '', 'job_id': '50'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,376 - Validation error in row {'id': '1467', 'name': 'Sully Huc', 'datetime': '', 'department_id': '8', 'job_id': '148'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,376 - Validation error in row {'id': '1474', 'name': 'Calhoun Iacovolo', 'datetime': '2021-03-06T03:02:20Z', 'department_id': '7', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,376 - Validation error in row {'id': '1483', 'name': 'Paco Ivain', 'datetime': '', 'department_id': '5', 'job_id': '41'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,391 - Validation error in row {'id': '1493', 'name': '', 'datetime': '2021-03-20T10:48:47Z', 'department_id': '10', 'job_id': '153'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,391 - Validation error in row {'id': '1523', 'name': 'Darelle Kenaway', 'datetime': '2021-05-08T10:51:07Z', 'department_id': '7', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,480 - Validation error in row {'id': '1561', 'name': 'Saxon Lehmann', 'datetime': '2021-10-28T18:29:31Z', 'department_id': '3', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,496 - Validation error in row {'id': '1589', 'name': 'Emmeline MacGrath', 'datetime': '2021-12-12T04:57:39Z', 'department_id': '11', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,511 - Validation error in row {'id': '1590', 'name': 'Niven Mackrell', 'datetime': '2021-05-17T07:18:48Z', 'department_id': '', 'job_id': '85'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,511 - Validation error in row {'id': '1613', 'name': 'Sigrid Matysik', 'datetime': '2022-02-15T21:20:01Z', 'department_id': '', 'job_id': '143'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,578 - Validation error in row {'id': '1686', 'name': 'Bessy Oakeby', 'datetime': '', 'department_id': '4', 'job_id': '53'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,578 - Validation error in row {'id': '1688', 'name': '', 'datetime': '2022-01-20T19:51:12Z', 'department_id': '11', 'job_id': '100'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,594 - Validation error in row {'id': '1714', 'name': 'Mala Pales', 'datetime': '2021-05-04T04:52:48Z', 'department_id': '', 'job_id': '70'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,625 - Validation error in row {'id': '1780', 'name': 'Annabelle Reilly', 'datetime': '', 'department_id': '6', 'job_id': '46'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,641 - Validation error in row {'id': '1799', 'name': '', 'datetime': '2021-03-10T07:35:09Z', 'department_id': '8', 'job_id': '111'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,641 - Validation error in row {'id': '1814', 'name': 'Theodore Sammut', 'datetime': '', 'department_id': '6', 'job_id': '86'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,672 - Validation error in row {'id': '1858', 'name': '', 'datetime': '2021-06-28T03:01:01Z', 'department_id': '6', 'job_id': '144'}: 1 validation error for EmployeeSchema
+name
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,672 - Validation error in row {'id': '1860', 'name': 'Marin Slipper', 'datetime': '2022-02-08T10:39:02Z', 'department_id': '4', 'job_id': ''}: 1 validation error for EmployeeSchema
+job_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 16:41:12,672 - Validation error in row {'id': '1869', 'name': 'Cesaro Solomon', 'datetime': '', 'department_id': '6', 'job_id': '66'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,719 - Validation error in row {'id': '1925', 'name': 'Cary Tothe', 'datetime': '', 'department_id': '3', 'job_id': '104'}: 1 validation error for EmployeeSchema
+datetime
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short
+2025-02-07 16:41:12,751 - Validation error in row {'id': '1987', 'name': 'Shaina Wyldish', 'datetime': '2021-12-13T10:05:09Z', 'department_id': '', 'job_id': '102'}: 1 validation error for EmployeeSchema
+department_id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_parsing
+2025-02-07 21:55:12,265 - Exception during reset or similar
+Traceback (most recent call last):
+  File "C:\Users\GladC\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlalchemy\pool\base.py", line 986, in _finalize_fairy
+    fairy._reset(
+  File "C:\Users\GladC\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlalchemy\pool\base.py", line 1432, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\GladC\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlalchemy\dialects\mssql\base.py", line 3168, in do_rollback
+    super().do_rollback(dbapi_connection)
+  File "C:\Users\GladC\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlalchemy\engine\default.py", line 700, in do_rollback
+    dbapi_connection.rollback()
+pyodbc.OperationalError: ('08S01', '[08S01] [Microsoft][ODBC Driver 18 for SQL Server]TCP Provider: Se ha forzado la interrupción de una conexión existente por el host remoto.\r\n (10054) (SQLEndTran); [08S01] [Microsoft][ODBC Driver 18 for SQL Server]Communication link failure (10054)')
