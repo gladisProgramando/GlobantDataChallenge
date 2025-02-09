@@ -21,18 +21,18 @@ El proyecto usa driver odbc, para la conexion con la base de datos sql server en
 Para ejecutar el servidor fast api:
 ![ejecuta la siguiente línea:](image.png)
 
-📡 Endpoints:
-- POST /UploadCsvDB/ : Para subir cualquiera de los archivos .csv historicos, en la carpeta Challenge hay una copia de ellos
-- POST /InsertDataDB/ : Para enviar ingreso de datos de las tres tablas mediante un request.
-- GET /BackupTablesAvro/ : Para realizar una copia de las tablas a formato AVRO
-- GET /RestoreTableAvro/: Para ejecutar un restore de la tabla con base a un archivo AVRO
+📡 **Endpoints**:
+- **POST /UploadCsvDB/**: Para subir cualquiera de los archivos .csv historicos, en la carpeta Challenge hay una copia de ellos
+- **POST /InsertDataDB/** : Para enviar ingreso de datos de las tres tablas mediante un request.
+- **GET /BackupTablesAvro/** : Para realizar una copia de las tablas a formato AVRO
+- **GET /RestoreTableAvro/**: Para ejecutar un restore de la tabla con base a un archivo AVRO
 
 
 Desde un explorador, accede a: http://127.0.0.1:8000/docs
 ![alt text](image-6.png)
 Se puede ejecutar por independiente cada api.
 
-🐳 Docker:
+🐳 **Docker**:
 Si deseas ejecutar el proyecto con Docker:
 instala docker en la máquina y realiza lo siguiente pasos.
 1. autenticate con tu cuenta, asi:
