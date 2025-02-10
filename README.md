@@ -47,3 +47,6 @@ Desde un explorador, accede a: http://127.0.0.1:8000/docs
 ## 🎇 Visualización Power BI:
 Tablero diseñado en power BI con bookmarks para optimizar el espacio de los filtros de pagina
 ![alt text](/images/image-7.png)
+
+## 🚀 Spark Challenge:
+En la carpeta Spark, encontrará un ejercicio completo acerca del tema.
