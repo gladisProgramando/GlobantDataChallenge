@@ -42,10 +42,8 @@ instala docker en la máquina y realiza lo siguiente pasos.
 3. Crea y levanta el contenedor:
 ![alt text](/images/image-4.png)
 
-**Visualización Powewr BI**:
+Desde un explorador, accede a: http://127.0.0.1:8000/docs
+
+## 🎇 Visualización Power BI:
 Tablero diseñado en power BI con bookmarks para optimizar el espacio de los filtros de pagina
 ![alt text](/images/image-7.png)
-
-
-
-Desde un explorador, accede a: http://127.0.0.1:8000/docs
